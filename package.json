@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "weather-app",
   "version": "1.0.0",
   "description": "",
@@ -13,5 +14,18 @@
     "request": "^2.73.0",
     "request-promise": "^4.2.1",
     "yargs": "^8.0.2"
+=======
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MummiSnow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+>>>>>>> 3ccb479210464d882d150f6700433cc2c6145eec
   }
 }
